@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roboverse/static/css/main.6959e755.css",
+    "main.js": "/roboverse/static/js/main.2be5f4ef.js",
+    "static/js/787.32032a02.chunk.js": "/roboverse/static/js/787.32032a02.chunk.js",
+    "index.html": "/roboverse/index.html",
+    "main.6959e755.css.map": "/roboverse/static/css/main.6959e755.css.map",
+    "main.2be5f4ef.js.map": "/roboverse/static/js/main.2be5f4ef.js.map",
+    "787.32032a02.chunk.js.map": "/roboverse/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6959e755.css",
+    "static/js/main.2be5f4ef.js"
+  ]
+}
